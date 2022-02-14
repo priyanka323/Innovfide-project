@@ -1,0 +1,55 @@
+.navbar{
+    display: flex;
+
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+    height: 80px;
+    width: 100%;
+    padding-lift: 10px;
+    padding-right: 10px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-left: 10px;
+    
+    
+
+}
+
+.loc{
+    border-left: 5px gray dashed;
+    height: 450px;
+    margin-left: 700px;
+    margin-top: -430px;
+}
+
+.frm{
+    margin-left: 750px;
+    margin-top: -420px;
+    display: block;
+    align-items: center;
+}
+.lsn{
+    margin-left: 850px;
+    margin-top: -470px;
+}
+.img2 {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-left: 10px;
+}
+.img3 {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-left: 10px;
+}
